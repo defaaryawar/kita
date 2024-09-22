@@ -1,2 +1,2 @@
-# kita
+# najmita
 bersama
